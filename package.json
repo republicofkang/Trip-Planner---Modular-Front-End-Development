@@ -1,0 +1,31 @@
+{
+  "name": "trip-planner1",
+  "version": "1.0.0",
+  "description": "trip planner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/republicofkang/Trip-Planner---Modular-Front-End-Development.git"
+  },
+  "keywords": [
+    "trip",
+    "planner"
+  ],
+  "author": "Constance Kang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/republicofkang/Trip-Planner---Modular-Front-End-Development/issues"
+  },
+  "homepage": "https://github.com/republicofkang/Trip-Planner---Modular-Front-End-Development#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  },
+  "dependencies": {
+    "mapbox-gl": "^0.54.0"
+  }
+}
